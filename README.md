@@ -15,7 +15,7 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf Random`
-- `git clone https://github.com/bhanja-dadri/Random`
+- `git clone https://github.com/DAKU-MAKER/Random`
 - `cd Random`
 - `python Daku.py`
      
